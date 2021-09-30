@@ -1,0 +1,30 @@
+h1, h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+   /* text-align: center; */
+}
+
+h2 {
+    color: #581845;
+    text-decoration: underline;
+}
+
+.ingredients{
+    font-weight: bold;
+    font-family: 'Open Sans', sans-serif;
+    color: #E30B5C;
+}
+
+p, #preparation {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#image {
+    padding: 10px;
+}
+
+#credits {
+    font-style: italic;
+}
