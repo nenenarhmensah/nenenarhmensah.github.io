@@ -1,0 +1,22 @@
+img{
+    max-width: 450px;
+}
+
+#info {
+    font-family: "source sans pro";
+    padding-top: 10px;
+}
+
+.flora, #flora-title{
+    color: green;
+    font-family: "alegreya sans";
+}
+
+.fauna, #fauna-title{
+    color: #800020;
+    font-family: "alegreya sans";
+}
+
+#flora-title, #fauna-title{
+    font-weight: bold;
+}
