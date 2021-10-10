@@ -1,0 +1,22 @@
+@media (max-width:450px){
+    .row{
+        margin-top:0;
+    }
+}
+
+img{
+    max-width: 500px;
+}
+
+.logo{
+    width: 100px;
+}
+
+h1, h3{
+    font-family: 'DM Serif Display', serif;
+    color: #1972b5;
+}
+
+p, li{
+    font-family: 'Barlow Condensed', sans-serif;
+}
