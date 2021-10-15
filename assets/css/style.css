@@ -1,0 +1,33 @@
+/*General*/
+body {
+    padding: 1em;
+}
+
+h4{
+    font-family: 'Noto Sans Mono';
+}
+
+ul, p {
+    font-family: 'Noto Serif';
+}
+
+/*Index*/
+
+/*Clips*/
+#black-explosion{
+    color:maroon;
+}
+
+#kool-korner{
+    color: forestgreen;
+}
+
+#mitzpeh{
+    color: blue;
+}
+
+/*Insert padding on the left of the list*/
+
+/*Resume*/
+
+/*Contact*/
