@@ -3,15 +3,19 @@ body {
     padding: 1em;
 }
 
-h4{
+h1, h4{
     font-family: 'Noto Sans Mono';
 }
 
-ul, p {
+ul, p, h5{
     font-family: 'Noto Serif';
 }
 
-/*Index*/
+/*About*/
+img {
+    width: 350px;
+    height: 500px;
+}
 
 /*Clips*/
 #black-explosion{
@@ -31,3 +35,6 @@ ul, p {
 /*Resume*/
 
 /*Contact*/
+#contact-title{
+    font-family: 'Noto Sans Mono';
+} 
