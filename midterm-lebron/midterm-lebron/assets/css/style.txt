@@ -1,0 +1,14 @@
+fonts:
+
+    Montserrat
+    Roboto Mono
+
+colors:
+
+    green - #A8FF00 
+    gray - #8e8e8e
+
+mediaquery breakpoints:
+
+    - 775px 
+    - 375px

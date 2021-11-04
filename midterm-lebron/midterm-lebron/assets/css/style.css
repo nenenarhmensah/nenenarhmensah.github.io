@@ -1,0 +1,15 @@
+/*green - #A8FF00, gray - #8e8e8e*/
+
+#article-title{
+    font-family: Montserrat;
+    font-weight: 700px;
+    font-size: 3.5em;
+}
+
+body{
+    font-family: Roboto Mono;
+    line-height: 1.5em;
+}
+/*.green-background{
+    background-color: lime;
+}*/

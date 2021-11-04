@@ -1,0 +1,46 @@
+    <!--HED-->
+Ranking the Biggest NBA Finals Carry Jobs
+
+    <!--BYLINE-->
+By Russell Goldenberg
+August 2021
+
+    <!--GREEN TEXT 1 -->
+LeBron haters should stop reading now.
+
+    <!--CAPTION-->
+    Artistic interpretation of LeBron James carrying Kyle Korver. Other teammates not pictured, but also carried.
+
+    <!--LINKS-->
+RAPTOR WAR: https://fivethirtyeight.com/features/how-our-raptor-metric-works/
+538: https://fivethirtyeight.com/
+
+
+    <!--- ARTICLE, CHART, GRAPHICS, FOOTER TEXT -->
+
+<p>Despite being a team sport, some NBA teams rely on a star to get them to the finals more than others. Did Giannis do it without help? <em>Not really.</em> Did MJ carry Pippen? <em>Sometimes.</em> Is LeBron amazing? Yes.</p>
+<p>There are plenty of opinionated articles and videos debating this already. So I figured I would add my data-driven take to the mix. What do the data say about ranking the biggest Finals carry jobs in NBA history?</p>
+<p>The data say that LeBron’s (losing) effort with the 2018 Cavaliers reigns supreme.</p>
+
+    <!--GREEN TEXT 2-->
+<em>Advanced stat haters should stop reading.</em>
+
+    <!--ADD LINKS TO GRAF BELOW-->
+<p>To answer this I used the all-in-one advanced stat RAPTOR WAR (WAR) created by 538, a good measure for how many wins a player contributed vs. what a replacement level player would. But we can’t just measure who had the highest WAR in isolation since both games and minutes played factor in. It needs to be relative to the rest of the team.</p>
+<p>To rank the biggest carry jobs, I decided to look at the WAR share among the top three players on a team. I could’ve picked any number of players to compare, but most great teams have at least two or three stars, with the rest filling in as role players, so three is the magic number.</p>
+
+    <!-- GRAPHICS TEXT BELOW -->
+<p>Wade tops the list for finals winners, carrying the load with an aging Shaq</p>
+<p>LeBron was just so good in Miami that even with other stars his numbers were crazy</p>
+<p>Dirk’s final run is often cited as a carry job, but the data prefer his first appearance</p>
+<p>The biggest surprise here as Hakeem’s first title usually sits atop most lists</p>
+<p>Less minutes for Giannis and some stellar support put this in the bottom</p>
+
+    <!--END GRAPHICS TEXT-->
+<p>To summarize: the data say that LeBron is Mr. Playoffs, and some of the most epic carry jobs were done by finals losers, who maybe just needed one more piece to the puzzle to win it all. But mostly, this is another perspective to add to these on-going debates.</p>
+
+    <!--FOOTER TEXT-->
+
+<p>Data for this story came from 538. The analysis only included players with 150+ minutes played. There are a lot of metrics out there, and they can all be great and terrible. Quantity matters in the playoffs, so a cumulative stat was chosen.</p>
+<p>Download the data <a href="https://github.com/fivethirtyeight/data/blob/master/nba-raptor/historical_RAPTOR_by_player.csv" target="_blank">on GitHub</a>.</p>
+<p>This article is reproduced for class educational purposes only. Please visit the original on <a href="https://pudding.cool/2021/08/nba-carry/">Pudding.cool</a>.</p>
