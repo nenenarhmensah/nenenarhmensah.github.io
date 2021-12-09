@@ -1,0 +1,33 @@
+@media(max-width: 580px){
+    figcaption{
+        font-size: 3em;
+    }
+}
+
+h1{
+    font-family: 'IBM Plex Mono';
+}
+
+p, figcaption{
+    font-family:'IBM Plex Sans';
+}
+
+div{
+    padding-top: 25px;
+}
+
+.yellow{
+    background-color: gold;
+}
+
+.red{
+    background-color:red;
+}
+
+#title-screen{
+    text-align: center;
+}
+
+#line-graph{
+    justify-content: center;
+}
